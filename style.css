@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 20px;
+}
+form{
+    min-width: 400px;
+}
+.container-fluid{
+    max-width: 900px;
+}
+.password-field{
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.toggle-password {
+    position: absolute;
+    top: 70%;
+    right: 10px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
