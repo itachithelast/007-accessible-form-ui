@@ -1,4 +1,4 @@
-# 007-accessible-form-ui
+# accessible-form-ui
 
 
 Based on a project idea from:
